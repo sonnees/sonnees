@@ -1,6 +1,6 @@
 <h1 align="center">Nguyễn Văn Sơn</h1>
 
-- 🚀 I'm aiming to become a Java backend programmer
+- 🚀 I'm aiming to become a **Java backend programmer**
 - :e-mail: sson12131415@gmail.com
 
 ## 🌐Socials
