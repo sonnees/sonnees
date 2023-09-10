@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://roadmap.sh">
-    <img src="https://api.roadmap.sh/v1-badge/wide/64fdb11d5ce9f4ca58ad56ba?variant=dark&roadmaps=backend%2Cjava" alt="roadmap.sh"/>
+    <img src="https://api.roadmap.sh/v1-badge/wide/64fdb11d5ce9f4ca58ad56ba?variant=dark&roadmaps=spring-boot%2Cbackend" alt="roadmap.sh"/>
   </a>
 </p>
 
