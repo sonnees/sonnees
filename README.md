@@ -1,9 +1,11 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+
 <h1 align="center">Nguyễn Văn Sơn</h1>
 
 <ul> 
 <li>🚀 I'm aiming to become a <b>Java backend programmer</b></li>
 <li>📧 sson12131415@gmail.com</b></li>
-<li><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="20" height="20"> www.linkedin.com/in/sonnees</b></li>
+<li><i class="fab fa-linkedin"></i> www.linkedin.com/in/sonnees</b></li>
 </ul>
   
 
