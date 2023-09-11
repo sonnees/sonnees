@@ -5,8 +5,15 @@
 <ul> 
 <li>🚀 I'm aiming to become a <b>Java backend programmer</b></li>
 <li>📧 sson12131415@gmail.com</b></li>
-<li><i class="fab fa-linkedin"></i> www.linkedin.com/in/sonnees</b></li>
+<li>[<i class="fab fa-linkedin"></i> LinkedIn](https://www.linkedin.com/in/sonnees)</li>
 </ul>
+
+# Nguyễn Văn Sơn
+
+- 🚀 I'm aiming to become a **Java backend programmer**
+- 📧 sson12131415@gmail.com
+- [<i class="fab fa-linkedin"></i> LinkedIn](https://www.linkedin.com/in/sonnees)
+
   
 
 
