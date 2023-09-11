@@ -4,7 +4,7 @@
 - :e-mail: sson12131415@gmail.com
 - <a href="www.linkedin.com/in/sonnees">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="20" height="20"> 
-  </a> www.linkedin.com/in/sonnees
+  </a>www.linkedin.com/in/sonnees
 
 
 
