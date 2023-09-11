@@ -1,7 +1,6 @@
 <h1 align="center">Nguyễn Văn Sơn</h1>
 
 🚀 I'm aiming to become a **Java backend programmer**
-- 📧 sson12131415@gmail.com
 - Connect [LinkedIn](https://www.linkedin.com/in/sonnees) [Gmail](sson12131415@gmail.com)
 
 
