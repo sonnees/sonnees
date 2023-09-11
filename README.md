@@ -2,7 +2,7 @@
 
 - 🚀 I'm aiming to become a **Java backend programmer**
 - :e-mail: sson12131415@gmail.com
-- [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](www.linkedin.com/in/sonnees) www.linkedin.com/in/sonnees
+- [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png =48x48)](www.linkedin.com/in/sonnees) www.linkedin.com/in/sonnees
 
 
 
