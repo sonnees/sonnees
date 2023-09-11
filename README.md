@@ -2,7 +2,7 @@
 
 - 🚀 I'm aiming to become a **Java backend programmer**
 - :e-mail: sson12131415@gmail.com
-- <img style="margin-top: 5" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="20" height="20">
+- <img style="bottom: 5" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="20" height="20">
 
   
 
