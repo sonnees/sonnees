@@ -2,7 +2,9 @@
 
 - 🚀 I'm aiming to become a **Java backend programmer**
 - :e-mail: sson12131415@gmail.com
-- [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png =48x48)](https://www.linkedin.com/in/your-username/) www.linkedin.com/in/sonnees
+- <a href="www.linkedin.com/in/sonnees">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="48" height="48"> www.linkedin.com/in/sonnees
+  </a>
 
 
 
