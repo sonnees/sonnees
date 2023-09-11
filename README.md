@@ -1,11 +1,9 @@
 <h1 align="center">Nguyễn Văn Sơn</h1>
 
-- 🚀 I'm aiming to become a **Java backend programmer**
-- :e-mail: sson12131415@gmail.com
-- <img style="bottom: 0" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="20" height="25">
 <ul> 
 <li>🚀 I'm aiming to become a <b>Java backend programmer</b></li>
-
+<li>📧 sson12131415@gmail.com</b></li>
+<li><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="20" height="20"> www.linkedin.com/in/sonnees</b></li>
 </ul>
   
 
