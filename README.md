@@ -3,6 +3,7 @@
 🚀 I'm aiming to become a **Java backend programmer** <br>
 🔎 [LinkedIn](https://www.linkedin.com/in/sonnees) | [Email](mailto:sson12131415@gmail.com) | [Zalo](https://zalo.me/0395906032)
 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@sonnees2012) <br>
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@sonnees) 
+## Passion
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@sonnees2012)   : 10k followers<br>
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@sonnees) : 40k subscriber  
 
